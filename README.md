@@ -1,4 +1,4 @@
-# smartcities
+# Projet Smartcities
 
 Dans le cadre du cours de MicroPython de [Mr. Camus](https://github.com/hepl-camus) & du projet "SmartCorridor" voici le Github de Dubois Antoine, élève de passerelle en ingénieur industriel - Orientation électronique - Option système embarqués à l'HEPL.
 
