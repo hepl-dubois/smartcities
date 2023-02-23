@@ -12,3 +12,6 @@ Le Wi-Fi et le Bluetooth intégrés permettent à la carte de se connecter à d'
 
 ![RPi_Pico_W](https://user-images.githubusercontent.com/125505805/220986057-d315d175-f1a6-40c2-9e81-835da921c5e4.png)
 
+Les travaux d'école que j'effectue sont réalisés à l'aide du pack "Groove Starter Kit" pour Raspberry Pi Pico. Ce kit contient tous les composants nécessaires pour créer différents projets électroniques, tels que des capteurs de température, des écrans LCD et des modules de communication. Avec ce kit, je peux facilement apprendre à utiliser le microcontrôleur Raspberry Pi Pico et à créer des projets électroniques amusants et éducatifs pour mes cours.
+
+Si vous êtes intéressé(e), vous pouvez trouver tous mes rapports sur ces travaux ici. Ces rapports détaillent les étapes de chaque projet, les difficultés rencontrées et les résultats obtenus. N'hésitez pas à les consulter si vous souhaitez en savoir plus sur mes travaux d'école.
