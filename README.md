@@ -15,3 +15,20 @@ Le Wi-Fi et le Bluetooth intégrés permettent à la carte de se connecter à d'
 Les travaux d'école que j'effectue sont réalisés à l'aide du pack "Groove Starter Kit" pour Raspberry Pi Pico. Ce kit contient tous les composants nécessaires pour créer différents projets électroniques, tels que des capteurs de température, des écrans LCD et des modules de communication. Avec ce kit, je peux facilement apprendre à utiliser le microcontrôleur Raspberry Pi Pico et à créer des projets électroniques amusants et éducatifs pour mes cours.
 
 Si vous êtes intéressé(e), vous pouvez trouver tous mes rapports sur ces travaux ici. Ces rapports détaillent les étapes de chaque projet, les difficultés rencontrées et les résultats obtenus. N'hésitez pas à les consulter si vous souhaitez en savoir plus sur mes travaux d'école.
+
+Chaque répertoire contiendra un fichier
+descriptif README.md et les ressources liées aux sujetx traités : code, datasheets, photos,
+explications diverses...
+
+
+## Répertoire :
+
+- [GPIO](GPIO) : LED simple, bouton-poussoir, interruption.
+- [AD-PWM](AD-PWM) : lecture du potentiomètre, PWM (LED, musique, servo).
+- [LCD](LCD) : documentation des fonctions de la librairie, affichage de la valeur du potentiomètre.
+- [LED_neo](LED_neo) : utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel.
+- [sensors](sensors) : température et humidité, luminosité, PIR.
+- [network](network) : Accès réseau avec le RPi Pico.
+
+
+
