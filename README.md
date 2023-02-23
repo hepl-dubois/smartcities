@@ -10,3 +10,5 @@ La carte Raspberry Pi Pico W est équipée d'un connecteur GPIO de 40 broches (v
 
 Le Wi-Fi et le Bluetooth intégrés permettent à la carte de se connecter à d'autres appareils sans fil, tels que des ordinateurs, des smartphones et des tablettes. Cette connectivité sans fil facilite la communication entre différents appareils et peut être utilisée pour la transmission de données, la commande à distance et la surveillance.
 
+![RPi_Pico_W](https://user-images.githubusercontent.com/125505805/220986057-d315d175-f1a6-40c2-9e81-835da921c5e4.png)
+
