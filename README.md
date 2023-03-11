@@ -20,7 +20,7 @@ Pour faciliter la création de mes programmes, j'utilise l'IDE "Thonny" qui offr
 
 Pour installer Thonny, vous pouvez télécharger le logiciel sur le site officiel de Thonny (https://thonny.org/). Une fois le fichier téléchargé, il vous suffit de l'installer sur votre ordinateur en suivant les instructions à l'écran. Cela ne prendra que quelques minutes. Après l'installation, vous pouvez commencer à utiliser Thonny pour développer vos programmes en micro-python sur le Raspberry Pi Pico.
 
-Il est important de noter que pour utiliser toutes les fonctionnalités du "kit Grove", vous devrez ajouter les bibliothèques nécessaires à votre code. Vous pouvez trouver les bibliothèques ICI. Ces bibliothèques vous permettront d'accéder à toutes les fonctionnalités du kit Grove et de faciliter la création de vos programmes.
+Il est important de noter que pour utiliser toutes les fonctionnalités du "kit Grove", vous devrez ajouter les bibliothèques nécessaires à votre code. Vous pouvez trouver les bibliothèques [ICI](pico-micropython-grove-master.zip). Ces bibliothèques vous permettront d'accéder à toutes les fonctionnalités du kit Grove et de faciliter la création de vos programmes.
 
 Si vous êtes intéressé(e), vous pouvez trouver tous mes rapports sur ces travaux ici. Ces rapports détaillent les étapes de chaque projet, les difficultés rencontrées et les résultats obtenus. N'hésitez pas à les consulter si vous souhaitez en savoir plus sur mes travaux d'école.
 
