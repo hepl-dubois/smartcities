@@ -6,7 +6,7 @@ Nous travaillons ici sur le RPi Pico W qui est une carte de développement de pe
 
 Le RP2040 est un microcontrôleur à double cœur basé sur l'architecture ARM Cortex-M0+, qui offre une puissance de traitement suffisante pour des applications telles que l'IoT, la robotique, l'automatisation et les systèmes embarqués. La carte dispose de 264 Ko de mémoire flash pour le stockage de programmes et de données, ainsi que de 26 Ko de mémoire vive (RAM) pour le traitement des données.
 
-La carte Raspberry Pi Pico W est équipée d'un connecteur GPIO de 40 broches (voir photo ci-dessous), qui permet de connecter facilement des capteurs, des moteurs et d'autres composants électroniques. Elle dispose également de plusieurs interfaces, notamment des ports USB, des interfaces UART, SPI et I2C, ainsi qu'un port pour carte SD.
+La carte Raspberry Pi Pico W est équipée d'un connecteur GPIO de 40 broches (voir photo ci-dessous), qui permet de connecter facilement des capteurs, des moteurs et d'autres composants électroniques. Elle dispose également de plusieurs interfaces, notamment des ports USB, des interfaces UART, SPI et I2C.
 
 Le Wi-Fi et le Bluetooth intégrés permettent à la carte de se connecter à d'autres appareils sans fil, tels que des ordinateurs, des smartphones et des tablettes. Cette connectivité sans fil facilite la communication entre différents appareils et peut être utilisée pour la transmission de données, la commande à distance et la surveillance.
 
