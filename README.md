@@ -16,6 +16,12 @@ Les travaux d'école que j'effectue sont réalisés à l'aide du pack "Groove St
 
 ![image](https://user-images.githubusercontent.com/125505805/224513038-80169a9b-650f-497e-b9b0-5ce23e3e218f.png)
 
+Pour faciliter la création de mes programmes, j'utilise l'IDE "Thonny" qui offre une interface claire et simple à comprendre, ainsi que des outils de débogage pour m'aider à corriger les erreurs dans mon code.
+
+Pour installer Thonny, vous pouvez télécharger le logiciel sur le site officiel de Thonny (https://thonny.org/). Une fois le fichier téléchargé, il vous suffit de l'installer sur votre ordinateur en suivant les instructions à l'écran. Cela ne prendra que quelques minutes. Après l'installation, vous pouvez commencer à utiliser Thonny pour développer vos programmes en micro-python sur le Raspberry Pi Pico.
+
+Il est important de noter que pour utiliser toutes les fonctionnalités du "kit Grove", vous devrez ajouter les bibliothèques nécessaires à votre code. Vous pouvez trouver les bibliothèques ICI. Ces bibliothèques vous permettront d'accéder à toutes les fonctionnalités du kit Grove et de faciliter la création de vos programmes.
+
 Si vous êtes intéressé(e), vous pouvez trouver tous mes rapports sur ces travaux ici. Ces rapports détaillent les étapes de chaque projet, les difficultés rencontrées et les résultats obtenus. N'hésitez pas à les consulter si vous souhaitez en savoir plus sur mes travaux d'école.
 
 Chaque répertoire contiendra un fichier
