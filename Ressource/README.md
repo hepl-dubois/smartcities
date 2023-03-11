@@ -1,3 +1,3 @@
 # Ressource
 
-Ce dossier servira pour si besoin pour le stockage
+Ce dossier servira pour le stockage
