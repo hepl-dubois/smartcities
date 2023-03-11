@@ -8,5 +8,5 @@
 
 -Led clignote ==> utilisation fonction time
 
--Led avec bouton ==> lecture du bouton poussoir
+-Led avec bouton ==> lecture du bouton poussoir & toggle led
 
