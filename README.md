@@ -28,6 +28,7 @@ Chaque répertoire contiendra un fichier
 descriptif README.md et les ressources liées aux sujetx traités : code, datasheets, photos,
 explications diverses...
 
+Cependant vous trouverez directement toute les ressources, code, explication dans le PDF de SeedStudio pour Groove Kit [ICI](https://files.seeedstudio.com/wiki/Grove_Shield_for_Pi_Pico_V1.0/Begiinner's-Guide-for-Raspberry-Pi-Pico.pdf)
 
 ## Répertoire :
 
