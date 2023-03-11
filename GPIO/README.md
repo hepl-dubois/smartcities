@@ -12,5 +12,12 @@
 
 ##Explication express de chaque lesson
 
-## Fonction utilisé
+##Fonction utilisé
 
+###pin
+
+###toggle
+
+###value
+
+###irq
