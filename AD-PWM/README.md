@@ -8,7 +8,7 @@ Les broches AD sont utilisées pour mesurer des signaux analogiques, tels que de
 
 Les broches PWM sont capables de générer des signaux électriques à des fréquences et durées d'impulsion spécifiques, ce qui permet de contrôler la vitesse des moteurs ou l'intensité des LED.
 
-## Répertoire de programme lier au AD-PWM
+## Répertoire de programme lié au AD-PWM
 
 ### [Lesson_6](Lesson_6) : Utilisation d'un potentiomètre
 
