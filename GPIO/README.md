@@ -10,7 +10,7 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
 
 ### [Lesson_3](Lesson_3) : Contrôle d'une LED 
 
-  ==> [led1.py](led1.py) est un programme qui allume une led
+  ==> [led1.py](Lesson_3/led1.py) est un programme qui allume une led
   
   ==> [led2.py](led2.py) est un programme qui éteint une led
   
