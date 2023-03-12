@@ -35,9 +35,12 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
 
 Vous pouvez retrouver toute les vidéos/photos dans le fichier "Lesson" qui correspond au programme
 
+Une explication détaillé se trouve directement dans le code de chaque programme
+
 #### Exemple [Blink_2.py](Lesson_4/Blink_2.py) de la [Lesson_4](Lesson_4)
 ![Blink_2](https://user-images.githubusercontent.com/125505805/224541846-fb4c1db4-3126-4f0a-997c-0b854ab8b169.gif)
 
+![image](https://user-images.githubusercontent.com/125505805/224542300-899dda4b-29ac-4a37-ac0e-d4362f426542.png)
 
 ## Description des fonction utilisées
 
