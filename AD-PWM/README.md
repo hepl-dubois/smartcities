@@ -21,9 +21,9 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
 
 ### [Lesson_7](Lesson_7) : Utilisation de la fonction PWM sur une led
 
-  ==>
+  ==> [Knob.py](Lesson_7/Knob.py) est un programme qui
   
-  ==>
+  ==> [fade.py](Lesson_7/fade.py) est un programme qui
 
 ### [Lesson_8](Lesson_8) : Utilisation de la fonction PWM & d'un buzzer passif pour générer un son
 
