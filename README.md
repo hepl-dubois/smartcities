@@ -24,11 +24,10 @@ Il est important de noter que pour utiliser toutes les fonctionnalités du "kit 
 
 Si vous êtes intéressé(e), vous pouvez trouver tous mes rapports sur cette platforme. Ces rapports détaillent les étapes de chaque projet et les résultats obtenus. N'hésitez pas à les consulter si vous souhaitez en savoir plus sur mes travaux d'école.
 
-Chaque répertoire contiendra un fichier
-descriptif README.md et les ressources liées aux sujetx traités : code, datasheets, photos,
-explications diverses...
+Chaque répertoire contient un fichier descriptif README.md et les ressources liées aux sujets traités : code, datasheets, photos,
+explications diverses,...
 
-Cependant vous trouverez directement toute les ressources, code, explication dans le PDF de SeedStudio pour Groove Kit [ICI](https://files.seeedstudio.com/wiki/Grove_Shield_for_Pi_Pico_V1.0/Begiinner's-Guide-for-Raspberry-Pi-Pico.pdf)
+Cependant, vous trouverez directement toute les ressources, codes, explications dans le PDF de SeedStudio pour Groove Kit [ICI](https://files.seeedstudio.com/wiki/Grove_Shield_for_Pi_Pico_V1.0/Begiinner's-Guide-for-Raspberry-Pi-Pico.pdf)
 
 ## Répertoire :
 
