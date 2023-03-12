@@ -19,13 +19,13 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
   ==>
   
 
--[Lesson_7](Lesson_7) :
+### [Lesson_7](Lesson_7) :
 
   ==>
   
   ==>
 
--[Lesson_8](Lesson_8) :
+### [Lesson_8](Lesson_8) :
 
   ==>
   
