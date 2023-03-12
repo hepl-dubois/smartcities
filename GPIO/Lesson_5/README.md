@@ -1,4 +1,4 @@
-# Lesson_5
+# Lesson_5 : Lecture du bouton poussoir & interruption
 
 ### Vous trouverez ici les photos/vidéos des différentes manipulations liées à cette lesson.
 
