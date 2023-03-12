@@ -1,4 +1,4 @@
-# Lesson_4
+# Lesson_4 : Utilisation de la bibliothèque time & d'une boucle
 
 ### Vous trouverez ici les photos/vidéos des différentes manipulations liées à cette lesson.
 
