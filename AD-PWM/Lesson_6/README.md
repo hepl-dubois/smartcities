@@ -4,7 +4,7 @@
 
 ### Une explication détaillée se trouve en commentaire dans chaque code.
 
-## [Sensor_1.py](Sensor_1.py) est un programme qui lis & affiche la valeur du potentiomètre
+## [Sensor_1.py](Sensor_1.py) est un programme qui lit & affiche la valeur du potentiomètre
 
 ![image](https://user-images.githubusercontent.com/125505805/224551293-f2574a65-a6fd-44b2-b048-f27d2035810a.png) 
 
