@@ -27,11 +27,11 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
 
 ### [Lesson_8](Lesson_8) : Utilisation de la fonction PWM & d'un buzzer passif pour générer un son
 
-  ==> [Buzzer_1.py](Lesson_8/Buzzer_1.py) est un programme qui
+  ==> [Buzzer_1.py](Lesson_8/Buzzer_1.py) st un programme qui joue une séquence de note de musique en boucle (DO,RE,MI,FA,SOL,LA,SI)
   
-  ==> [two_tiger.py](Lesson_8/two_tiger.py) est un programme qui
+  ==> [two_tiger.py](Lesson_8/two_tiger.py) est un programme qui est un programme qui joue une séquence (réutilisable) de note de musique en boucle (DO,RE,MI,FA,SOL,LA,SI)
   
-  ==> [Beethoven_Joie_Buzzer.py](Lesson_8/Beethoven_Joie_Buzzer.py) est un programme qui
+  ==> [Beethoven_Joie_Buzzer.py](Lesson_8/Beethoven_Joie_Buzzer.py) est un programme qui joue les 4 premières mesures de l'hymne à la joie de Beethoven en boucle
   
   
 ## Fonctionnement
