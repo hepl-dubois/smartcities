@@ -1,4 +1,4 @@
-# Lesson_8
+# Lesson_8 : Utilisation de la fonction PWM & d'un buzzer passif pour générer un son
 
 ### Vous trouverez ici les photos/vidéos des différentes manipulations liées à cette lesson.
 
