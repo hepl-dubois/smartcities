@@ -1,4 +1,4 @@
-# Lesson_6
+# Lesson_6 : Utilisation d'un potentiomètre
 
 ### Vous trouverez ici les photos/vidéos des différentes manipulations liées à cette lesson.
 
