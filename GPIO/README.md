@@ -48,8 +48,6 @@ Une explication détaillé se trouve directement dans le code de chaque programm
 
 ### toggle
 
-### value
-
 ### irq
 
 ### import
