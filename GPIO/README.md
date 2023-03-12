@@ -28,7 +28,7 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
 
 ==> [Button_Led_1.py](Lesson_5/Button_Led_1.py) est un programme qui allume une led avec un bouton poussoir par intérruption
 
-==> [Button_Led_2.py](Lesson_5/Button_Led_2.py) est un programme qui allume une led avec un bouton poussoir par intérruption avec un temps de "repos" entre chaque action
+==> [Button_Led_2.py](Lesson_5/Button_Led_2.py) est un programme qui allume une led avec un bouton poussoir par intérruption par le biais d'une variable
 
 
 ## Exemple
