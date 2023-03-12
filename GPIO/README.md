@@ -24,11 +24,11 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
 ==> [Blink_3.py](Lesson_4/Blink_3.py) est un programme qui fais clignoter une led à l'infini
 
 
-### [Lesson_5](Lesson_5) : Lecture du bouton poussoir & intéruption
+### [Lesson_5](Lesson_5) : Lecture du bouton poussoir & interruption
 
-==> [Button_Led_1.py](Lesson_5/Button_Led_1.py) est un programme qui allume une led avec un bouton poussoir par intérruption
+==> [Button_Led_1.py](Lesson_5/Button_Led_1.py) est un programme qui allume une led avec un bouton poussoir par interrruption
 
-==> [Button_Led_2.py](Lesson_5/Button_Led_2.py) est un programme qui allume une led avec un bouton poussoir par intérruption par le biais d'une variable
+==> [Button_Led_2.py](Lesson_5/Button_Led_2.py) est un programme qui allume une led avec un bouton poussoir par interrruption par le biais d'une variable
 
 
 ## Exemple
