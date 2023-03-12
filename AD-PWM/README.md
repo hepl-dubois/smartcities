@@ -36,6 +36,11 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
   
 ## Fonctionnement
 
+Vous pouvez retrouver toute les vidéos/photos dans le fichier "Lesson" qui correspond au programme
+
+Une explication détaillé se trouve directement dans le code de chaque programme
+
+
 
 ## Description des fonction utilisées
 
