@@ -1,4 +1,4 @@
-# Lesson_3
+# Lesson_3 : Contrôle d'une Led
 
 ### Vous trouverez ici les photos/vidéos des différentes manipulations liées à cette lesson.
 
