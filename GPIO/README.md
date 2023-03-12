@@ -19,7 +19,7 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
 
 ==> [Blink_1.py](Lesson_4/Blink_1.py) est un programme qui allume et éteint une led 10 fois
 
-==> [Blink_2.py](Lesson_4/Blink_2.py) est un programme qui fais clignoter une led à l'infini avec un temps de repos très court
+==> [Blink_2.py](Lesson_4/Blink_2.py) est un programme qui fais clignoter une led à l'infini avec deux temps de pause et un temps d'allumage
 
 ==> [Blink_3.py](Lesson_4/Blink_3.py) est un programme qui fais clignoter une led à l'infini
 
