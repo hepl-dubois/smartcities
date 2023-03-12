@@ -10,7 +10,7 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
 
 ## Répertoire de programme lier au AD-PWM
 
-### [Lesson_6](Lesson_6) :
+### [Lesson_6](Lesson_6) : Utilisation d'un potentiomètre
 
   ==>
   
