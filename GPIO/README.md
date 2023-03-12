@@ -46,6 +46,8 @@ Une explication détaillé se trouve directement dans le code de chaque programm
 
 ### pin
 
+La fonction Pin permet de configurer et de contrôler les broches du Raspberry Pi Pico. Elle permet de spécifier les modes d'entrée/sortie, d'activer/désactiver les broches, et de lire/écrire des valeurs numériques. La fonction Pin est donc essentielle pour interagir avec les périphériques connectés au Pico via ses broches.
+
 ### toggle
 
 ### irq
