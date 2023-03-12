@@ -9,7 +9,7 @@
 ![Blink_1](https://user-images.githubusercontent.com/125505805/224540865-d1de62b1-f0ef-479d-b4e9-5de1ae0fd0c4.gif)
 
 
-## [Blink_2.py](Blink_2.py) est un programme qui fais clignoter une led à l'infini avec un temps de repos très court
+## [Blink_2.py](Blink_2.py) est un programme qui fais clignoter une led à l'infini avec deux temps de pause et un temps d'allumage
 
 ![Blink_2](https://user-images.githubusercontent.com/125505805/224541422-3eab25fa-99a1-4255-8dff-6c05056ea034.gif)
 
