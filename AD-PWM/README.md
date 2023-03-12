@@ -12,11 +12,11 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
 
 ### [Lesson_6](Lesson_6) : Utilisation d'un potentiomètre
 
-  ==> [Sensor_1.py](Lesson_6/Sensor_1.py) est un programme qui
+  ==> [Sensor_1.py](Lesson_6/Sensor_1.py) est un programme qui lis & affiche la valeur du potentiomètre
   
-  ==> [Sensor_2.py](Lesson_6/Sensor_2.py) est un programme qui
+  ==> [Sensor_2.py](Lesson_6/Sensor_2.py) est un programme qui allume une led en fonction de la valeur du potentiomètre (ici supérieur a 30000)
   
-  ==> [Sensor_3.py](Lesson_6/Sensor_3.py) est un programme qui
+  ==> [Sensor_3.py](Lesson_6/Sensor_3.py) est un programme qui allume une led en fonction de la valeur du potentiomètre (ici entre 20000 & 40000)
   
 
 ### [Lesson_7](Lesson_7) : Utilisation de la fonction PWM sur une led
