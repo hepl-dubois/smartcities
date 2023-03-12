@@ -33,7 +33,12 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
 
 ## Exemple
 
-## Fonction utilisé
+Vous pouvez retrouver toute les vidéos/photos dans le fichier "Lesson" qui correspond au programme
+
+![Blink_2](https://user-images.githubusercontent.com/125505805/224541846-fb4c1db4-3126-4f0a-997c-0b854ab8b169.gif)
+
+
+## Description des fonction utilisées
 
 ### pin
 
