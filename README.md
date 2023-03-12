@@ -18,11 +18,11 @@ Les travaux d'école que j'effectue sont réalisés à l'aide du pack "Groove St
 
 Pour faciliter la création de mes programmes, j'utilise l'IDE "Thonny" qui offre une interface claire et simple à comprendre, ainsi que des outils de débogage pour m'aider à corriger les erreurs dans mon code.
 
-Pour installer Thonny, vous pouvez télécharger le logiciel sur le site officiel de Thonny (https://thonny.org/). Une fois le fichier téléchargé, il vous suffit de l'installer sur votre ordinateur en suivant les instructions à l'écran. Cela ne prendra que quelques minutes. Après l'installation, vous pouvez commencer à utiliser Thonny pour développer vos programmes en micro-python sur le Raspberry Pi Pico.
+Pour installer Thonny, vous pouvez télécharger le logiciel sur le site officiel (https://thonny.org/). Une fois le fichier téléchargé, il vous suffit de l'installer sur votre ordinateur en suivant les instructions à l'écran. Cela ne prendra que quelques minutes. Après l'installation, vous pouvez commencer à l'utiliser pour développer vos programmes en Micropython sur le Raspberry Pi Pico W.
 
-Il est important de noter que pour utiliser toutes les fonctionnalités du "kit Grove", vous devrez ajouter les bibliothèques nécessaires à votre code. Vous pouvez trouver les bibliothèques [ICI](pico-micropython-grove-master.zip). Ces bibliothèques vous permettront d'accéder à toutes les fonctionnalités du kit Grove et de faciliter la création de vos programmes.
+Il est important de noter que pour utiliser toutes les fonctionnalités du "kit Grove", vous devrez ajouter les bibliothèques nécessaires à votre code. Vous pouvez trouver les bibliothèques [ICI](pico-micropython-grove-master.zip). Celles-ci vous permettront d'accéder à toutes les fonctionnalités du kit Grove et donc de faciliter la création de vos programmes.
 
-Si vous êtes intéressé(e), vous pouvez trouver tous mes rapports sur ces travaux ici. Ces rapports détaillent les étapes de chaque projet, les difficultés rencontrées et les résultats obtenus. N'hésitez pas à les consulter si vous souhaitez en savoir plus sur mes travaux d'école.
+Si vous êtes intéressé(e), vous pouvez trouver tous mes rapports sur cette platforme. Ces rapports détaillent les étapes de chaque projet et les résultats obtenus. N'hésitez pas à les consulter si vous souhaitez en savoir plus sur mes travaux d'école.
 
 Chaque répertoire contiendra un fichier
 descriptif README.md et les ressources liées aux sujetx traités : code, datasheets, photos,
