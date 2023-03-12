@@ -40,8 +40,10 @@ Vous pouvez retrouver toute les vidéos/photos dans le fichier "Lesson" qui corr
 
 Une explication détaillé se trouve directement dans le code de chaque programme
 
-#### Exemple [Blink_2.py](Lesson_4/Blink_2.py) de la [Lesson_4](Lesson_4)
+#### Exemple [fade.py](Lesson_7/fade.py) de la [Lesson_7](Lesson_7)
 ![IMG_3259](https://user-images.githubusercontent.com/125505805/224554588-02c6f2c4-70d6-414f-87db-64dfa2886b55.gif)
+
+![image](https://user-images.githubusercontent.com/125505805/224557625-9183961d-847f-4b10-a521-87361036837a.png)
 
 
 ## Description des fonction utilisées
