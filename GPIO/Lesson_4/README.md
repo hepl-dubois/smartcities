@@ -1,4 +1,4 @@
-# Lesson_3
+# Lesson_4
 
 ### Vous trouverez ici les photos/vidéos des différentes manipulations lier à cette lesson
 
@@ -11,6 +11,9 @@
 
 ## [Blink_2.py](Blink_2.py) est un programme qui fais clignoter une led à l'infini avec un temps de repos très court
 
+![Blink_2](https://user-images.githubusercontent.com/125505805/224541422-3eab25fa-99a1-4255-8dff-6c05056ea034.gif)
 
 
 ## [Blink_3.py](Blink_3.py) est un programme qui fais clignoter une led à l'infini
+
+![Blink_3](https://user-images.githubusercontent.com/125505805/224541461-a353211c-573f-4344-8bfa-6dff1c355592.gif)
