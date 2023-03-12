@@ -4,7 +4,7 @@
 
 ### Une explication détaillé se trouve en commentaire dans chaque code
 
-## [Blink_1.py](Blink_1.py) est un programme qui allume et éteint une led 10 fois
+## [Blink_1.py](Blink_1.py) est un programme qui allume et éteint une led 10 fois (réduit visuellement ici)
 
 ![Blink_1](https://user-images.githubusercontent.com/125505805/224540865-d1de62b1-f0ef-479d-b4e9-5de1ae0fd0c4.gif)
 
