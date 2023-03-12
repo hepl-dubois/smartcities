@@ -16,7 +16,7 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
 
 ### [Lesson_4](Lesson_4) => Utilisation de la bibliothèque time 
 
-###[Lesson_5](Lesson_5) => Lecture du bouton poussoir & inttéruption
+### [Lesson_5](Lesson_5) => Lecture du bouton poussoir & inttéruption
 
 ## Exemple
 
