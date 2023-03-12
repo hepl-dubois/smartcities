@@ -22,4 +22,4 @@
 
 ## [Sensor_3.py](Sensor_3.py) est un programme qui allume une led en fonction de la valeur du potentiomètre (ici entre 20000 & 40000)
 
-Le principe visuel est le même que le programme "Sensor_2" c'est pourquoi il n'y a pas de photos.
+Le principe visuel est le même que le programme "Sensor_2" c'est pourquoi il n'y a pas de photos/vidéos.
