@@ -1,8 +1,8 @@
 # Lesson_4
 
-### Vous trouverez ici les photos/vidéos des différentes manipulations lier à cette lesson
+### Vous trouverez ici les photos/vidéos des différentes manipulations liées à cette lesson.
 
-### Une explication détaillé se trouve en commentaire dans chaque code
+### Une explication détaillés se trouve en commentaire dans chaque code.
 
 ## [Blink_1.py](Blink_1.py) est un programme qui allume et éteint une led 10 fois (réduit visuellement ici)
 
