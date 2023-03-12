@@ -12,7 +12,7 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
 
 ### [Lesson_6](Lesson_6) : Utilisation d'un potentiomètre
 
-  ==> [Sensor_1.py](Lesson_6/Sensor_1.py) est un programme qui lis & affiche la valeur du potentiomètre
+  ==> [Sensor_1.py](Lesson_6/Sensor_1.py) est un programme qui lit et affiche la valeur du potentiomètre
   
   ==> [Sensor_2.py](Lesson_6/Sensor_2.py) est un programme qui allume une led en fonction de la valeur du potentiomètre (ici supérieur a 30000)
   
@@ -27,18 +27,18 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
 
 ### [Lesson_8](Lesson_8) : Utilisation de la fonction PWM & d'un buzzer passif pour générer un son
 
-  ==> [Buzzer_1.py](Lesson_8/Buzzer_1.py) st un programme qui joue une séquence de note de musique en boucle (DO,RE,MI,FA,SOL,LA,SI)
+  ==> [Buzzer_1.py](Lesson_8/Buzzer_1.py) est un programme qui joue une séquence de notes de musique en boucle (DO,RE,MI,FA,SOL,LA,SI)
   
-  ==> [two_tiger.py](Lesson_8/two_tiger.py) est un programme qui est un programme qui joue une séquence (réutilisable) de note de musique en boucle (DO,RE,MI,FA,SOL,LA,SI)
+  ==> [two_tiger.py](Lesson_8/two_tiger.py) est un programme qui joue une séquence (réutilisable) de notes de musique en boucle (DO,RE,MI,FA,SOL,LA,SI)
   
   ==> [Beethoven_Joie_Buzzer.py](Lesson_8/Beethoven_Joie_Buzzer.py) est un programme qui joue les 4 premières mesures de l'hymne à la joie de Beethoven en boucle
   
   
 ## Fonctionnement
 
-Vous pouvez retrouver toute les vidéos/photos dans le fichier "Lesson" qui correspond au programme
+Vous pouvez retrouver toutes les vidéos/photos dans le fichier "Lesson" qui correspond au programme.
 
-Une explication détaillé se trouve directement dans le code de chaque programme
+Une explication détaillée se trouve directement dans le code de chaque programme.
 
 #### Exemple [fade.py](Lesson_7/fade.py) de la [Lesson_7](Lesson_7)
 ![IMG_3259](https://user-images.githubusercontent.com/125505805/224554588-02c6f2c4-70d6-414f-87db-64dfa2886b55.gif)
@@ -46,7 +46,7 @@ Une explication détaillé se trouve directement dans le code de chaque programm
 ![image](https://user-images.githubusercontent.com/125505805/224557625-9183961d-847f-4b10-a521-87361036837a.png)
 
 
-## Description des fonction utilisées
+## Description des fonctions utilisées
 
 ### -Read_u16()
 
