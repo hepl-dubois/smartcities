@@ -4,7 +4,8 @@
 
 ### Une explication détaillé se trouve en commentaire dans chaque code
 
-## [led1.py](led1.py) est un programme qui allume une led :
+## [Sensor_1.py](Sensor_1.py) est un programme qui  :
 
-## [led2.py](led2.py) est un programme qui éteint une led :
+## [Sensor_2.py](Sensor_2.py) est un programme qui  :
 
+## [Sensor_3.py](Sensor_3.py) est un programme qui  :
