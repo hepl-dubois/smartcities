@@ -13,7 +13,7 @@
 
 ## [Sensor_2.py](Sensor_2.py) est un programme qui  :
 
-![image](https://user-images.githubusercontent.com/125505805/224552161-dc67fd9e-dee3-4b82-b5c9-0d92ff074efc.png)
+
 
 
 ## [Sensor_3.py](Sensor_3.py) est un programme qui  :
