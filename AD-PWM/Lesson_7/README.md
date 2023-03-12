@@ -1,10 +1,10 @@
-# Lesson_6
+# Lesson_7
 
 ### Vous trouverez ici les photos/vidéos des différentes manipulations liées à cette lesson.
 
 ### Une explication détaillée se trouve en commentaire dans chaque code.
 
-## [Knob.py](Knob.py) est un programme qui
+## [Knob.py](Knob.py) est un programme qui fait varier l'intensiter d'une led proportionnelement à la valeur d'un potentiomètre
 
 ![image](https://user-images.githubusercontent.com/125505805/224553411-1ac86767-c73c-4894-91a7-dffb022e4202.png)
 
