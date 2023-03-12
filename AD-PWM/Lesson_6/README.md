@@ -13,6 +13,11 @@
 
 ## [Sensor_2.py](Sensor_2.py) est un programme qui  :
 
+![image](https://user-images.githubusercontent.com/125505805/224553003-39bdf06a-e784-45ad-ba86-ac328dfc0daa.png)
+
+![image](https://user-images.githubusercontent.com/125505805/224553016-0427ee2c-9082-47d8-97e8-5b0e5dc614fd.png)
+
+![image](https://user-images.githubusercontent.com/125505805/224553138-4bc7680b-e857-4a7d-b3b7-5e9ed3ca0b09.png)
 
 
 
