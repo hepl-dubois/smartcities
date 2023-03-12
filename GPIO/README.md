@@ -16,6 +16,12 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
 
 ### [Lesson_4](Lesson_4) => Utilisation de la bibliothèque time 
 
+==> [Blink_1.py](Blink_1.py)
+
+==> [Blink_2.py](Blink_2.py)
+
+==> [Blink_3.py](Blink_3.py)
+
 ### [Lesson_5](Lesson_5) => Lecture du bouton poussoir & inttéruption
 
 ## Exemple
