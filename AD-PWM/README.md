@@ -40,6 +40,8 @@ Vous pouvez retrouver toute les vidéos/photos dans le fichier "Lesson" qui corr
 
 Une explication détaillé se trouve directement dans le code de chaque programme
 
+#### Exemple [Blink_2.py](Lesson_4/Blink_2.py) de la [Lesson_4](Lesson_4)
+![IMG_3259](https://user-images.githubusercontent.com/125505805/224554588-02c6f2c4-70d6-414f-87db-64dfa2886b55.gif)
 
 
 ## Description des fonction utilisées
