@@ -15,7 +15,7 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
   ==> [led2.py](Lesson_3/led2.py) est un programme qui éteint une led
   
 
-### [Lesson_4](Lesson_4) : Utilisation de la bibliothèque time 
+### [Lesson_4](Lesson_4) : Utilisation de la bibliothèque time & d'une boucle
 
 ==> [Blink_1.py](Lesson_4/Blink_1.py) est un programme qui allume et éteint une led 10 fois
 
