@@ -8,15 +8,15 @@ Pour utiliser les broches GPIO, vous devez d'abord configurer leur mode d'opéra
 
 ## Répertoire des programmes lier au GPIO
 
-### -[Lesson_3](Lesson_3) : Contrôle d'une LED 
+### [Lesson_3](Lesson_3) : Contrôle d'une LED 
 
   ==> [led1.py](led1.py) est un programme qui allume une led
   
   ==> [led2.py](led2.py) est un programme qui éteint une led
 
--[Lesson_4](Lesson_4) => Utilisation de la bibliothèque time 
+### [Lesson_4](Lesson_4) => Utilisation de la bibliothèque time 
 
--[Lesson_5](Lesson_5) => Lecture du bouton poussoir & inttéruption
+###[Lesson_5](Lesson_5) => Lecture du bouton poussoir & inttéruption
 
 ## Exemple
 
