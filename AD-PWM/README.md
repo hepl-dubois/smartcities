@@ -14,9 +14,9 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
 
   ==> [Sensor_1.py](Lesson_6/Sensor_1.py) est un programme qui
   
-  ==>
+  ==> [Sensor_2.py](Lesson_6/Sensor_2.py) est un programme qui
   
-  ==>
+  ==> [Sensor_3.py](Lesson_6/Sensor_3.py) est un programme qui
   
 
 ### [Lesson_7](Lesson_7) : Utilisation de la fonction PWM sur une led
