@@ -16,11 +16,10 @@ Les broches PWM sont capables de générer des signaux électriques à des fréq
 
 -[Lesson_8](Lesson_8) =            ==> 
 
-## Explication express de chaque lesson
+## Fonctionnement
 
-## Exemple
 
-## Fonction utilisé
+## Description des fonction utilisées
 
 ### read_u16
 
