@@ -4,7 +4,7 @@
 
 ### Une explication détaillé se trouve en commentaire dans chaque code
 
-## [led1.py](Lesson_3/led1.py) est un programme qui allume une led :
+## [led1.py](led1.py) est un programme qui allume une led :
 
 ![image](https://user-images.githubusercontent.com/125505805/224539894-72d664a4-6694-4bf2-b23b-22b02ee33566.png)
 
