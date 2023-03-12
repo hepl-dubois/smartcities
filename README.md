@@ -1,6 +1,6 @@
 # Projet Smartcities
 
-Dans le cadre du cours de MicroPython de [Mr. Camus](https://github.com/hepl-camus) & du projet "SmartCorridor" voici le Github de Dubois Antoine, élève de passerelle en ingénieur industriel - Orientation électronique - Option système embarqués à l'HEPL.
+Dans le cadre du cours de MicroPython de [Mr. Camus](https://github.com/hepl-camus) & du projet "SmartCorridor" voici le Github de Dubois Antoine, élève de passerelle en ingénieur industriel - Orientation électronique - Option systèmes embarqués à l'HEPL.
 
 Nous travaillons ici sur le RPi Pico W qui est une carte de développement de petite taille qui est conçue pour faciliter la création de projets électroniques et informatiques. Elle est basée sur le microcontrôleur RP2040 de Raspberry Pi et intègre une connectivité sans fil Wi-Fi et Bluetooth.
 
