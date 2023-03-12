@@ -51,3 +51,15 @@ Une explication détaillé se trouve directement dans le code de chaque programm
 ### value
 
 ### irq
+
+### import
+
+### value()
+
+### sleep()
+
+### while true
+
+### variable
+
+
