@@ -56,7 +56,7 @@ La fonction read_u16() permet de lire la valeur numérique d'un capteur ou d'un 
 
 La fonction freq() permet de régler la fréquence d'un signal numérique envoyé à un périphérique connecté au Raspberry Pi Pico.
 
-### Duty_16
+### Duty_16()
 
 La fonction duty_16() permet de régler le rapport cyclique d'un signal numérique envoyé à un périphérique connecté au Raspberry Pi Pico en utilisant un format de données de 16 bits.
 
