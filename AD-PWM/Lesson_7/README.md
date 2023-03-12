@@ -1,4 +1,4 @@
-# Lesson_7
+# Lesson_7 : Utilisation de la fonction PWM sur une led
 
 ### Vous trouverez ici les photos/vidéos des différentes manipulations liées à cette lesson.
 
