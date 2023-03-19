@@ -6,19 +6,13 @@
 
 ## Répertoire de programme lié au LCD
 
-### [Lesson_6](Lesson_6) : Utilisation d'un potentiomètre
+### [Lesson_9](Lesson_9) : Utilisation d'un LCD
 
-  ==> [Sensor_1.py](Lesson_6/Sensor_1.py) est un programme qui 
+  ==> [Lcd_hello_world.py](Lesson_9/Lcd_hello_world.py) est un programme qui 
   
-  
+  ==> [LCD_Knob.py](Lesson_9/LCD_Knob.py) est un programme qui 
 
-### [Lesson_7](Lesson_7) : Utilisation de la fonction PWM sur une led
-
-
-
-### [Lesson_8](Lesson_8) : Utilisation de la fonction PWM & d'un buzzer passif pour générer un son
-
-
+  ==> [LCD_Led.py](Lesson_9/LCD_Led.py) est un programme qui 
   
   
 ## Fonctionnement
