@@ -1,4 +1,4 @@
-# Lesson_9 : Utilisation de la bibliothèque time & d'une boucle
+# Lesson_9 : Utilisation d'un LCD
 
 ### Vous trouverez ici les photos/vidéos des différentes manipulations liées à cette lesson.
 
