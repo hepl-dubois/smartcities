@@ -2,7 +2,7 @@
 
 ## Introduction
 
-
+Un écran LCD (Liquid Crystal Display) est un dispositif qui permet d'afficher des informations en utilisant des cristaux liquides. Il est souvent utilisé pour afficher des textes et des images en noir et blanc ou en couleur. Pour afficher du texte ou des images, le contrôleur de l'écran LCD reçoit des signaux numériques du Raspberry Pi Pico et les convertit en commandes qui modifient l'état des cristaux liquides pour afficher les informations. Le contrôleur de l'écran LCD et le Raspberry Pi Pico sont généralement connectés par une interface de communication comme le protocole I2C ou SPI.
 
 ## Répertoire de programme lié au LCD
 
