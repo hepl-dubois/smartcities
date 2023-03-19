@@ -28,9 +28,9 @@ Une explication détaillée se trouve directement dans le code de chaque program
 
 ## Description des fonctions utilisées
 
-### - Read_u16()
+### - lcd1602.py (bibliothèque)
 
-La fonction 
+La bibliothèque "lcd1602.py" est une bibliothèque Python qui permet de contrôler un écran LCD 1602 à partir d'un Raspberry Pi Pico. Elle contient des fonctions pour initialiser l'écran LCD, afficher du texte, définir la position du curseur et activer ou désactiver le rétroéclairage. La bibliothèque utilise généralement le protocole I2C pour communiquer avec l'écran LCD.
 
 
 
