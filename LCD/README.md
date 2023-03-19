@@ -23,6 +23,7 @@ Une explication détaillée se trouve directement dans le code de chaque program
 
 #### Exemple [Lcd_hello_world.py](Lesson_9/Lcd_hello_world.py) de la [Lesson_9](Lesson_9)
 
+![lcd_1](https://user-images.githubusercontent.com/125505805/226180941-e9bb745e-bd30-4fc7-96b8-547d32b82715.gif)
 
 
 ## Description des fonctions utilisées
