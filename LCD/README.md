@@ -21,7 +21,7 @@ Vous pouvez retrouver toutes les vidéos/photos dans le fichier "Lesson" qui cor
 
 Une explication détaillée se trouve directement dans le code de chaque programme.
 
-#### Exemple [fade.py](Lesson_7/fade.py) de la [Lesson_7](Lesson_7)
+#### Exemple [Lcd_hello_world.py](Lesson_9/Lcd_hello_world.py) de la [Lesson_9](Lesson_9)
 
 
 
