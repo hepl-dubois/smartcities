@@ -4,8 +4,7 @@
 
 ### Une explication détaillée se trouve en commentaire dans chaque code.
 
-## [servo.py](servo.py) est un programme qui lit et affiche la valeur du potentiomètre
+## [servo.py](servo.py) est un programme qui
 
 
-
-## [pir_servo.py](pir_servo.py) est un programme qui allume une led en fonction de la valeur du potentiomètre (ici supérieur a 30000)
+## [pir_servo.py](pir_servo.py) est un programme qui 
