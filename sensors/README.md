@@ -15,15 +15,15 @@ Un capteur, ou "sensor" en anglais, est un dispositif qui permet de mesurer une 
   
 ### [Lesson_11](Lesson_11) : Utilisation de la fonction PWM sur une led
 
-  ==> [minifan.py](Lesson_11/minifan.py) est un programme qui fait varier la lumiosité d'une led en fonction de la valeur d'un potentiomètre
+  ==> [minifan.py](Lesson_11/minifan.py) est un programme qui 
   
-  ==> [temp_mini_fan.py](Lesson_11/temp_mini_fan.py) est un programme qui fait varier progressivement la lumiosité d'une led en boucle
+  ==> [temp_mini_fan.py](Lesson_11/temp_mini_fan.py) est un programme qui 
 
 ### [Lesson_13](Lesson_13) : Utilisation de la fonction PWM & d'un buzzer passif pour générer un son
 
-  ==> [servo.py](Lesson_13/servo.py) est un programme qui joue une séquence de notes de musique en boucle (DO,RE,MI,FA,SOL,LA,SI)
+  ==> [servo.py](Lesson_13/servo.py) est un programme qui 
   
-  ==> [pir_servo.py](Lesson_13/pir_servo.py) est un programme qui joue une séquence (réutilisable) de notes de musique en boucle (DO,RE,MI,FA,SOL,LA,SI)
+  ==> [pir_servo.py](Lesson_13/pir_servo.py) est un programme qui 
   
   
   
@@ -51,7 +51,7 @@ La fonction freq() permet de régler la fréquence d'un signal numérique envoy�
 
 ### - Duty_16()
 
-La fonction duty_16() permet de régler le rapport cyclique d'un signal numérique envoyé à un périphérique connecté au Raspberry Pi Pico en utilisant un format de données de 16 bits.
+
 
 
 
