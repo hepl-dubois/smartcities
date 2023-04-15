@@ -39,9 +39,15 @@ Une explication détaillée se trouve directement dans le code de chaque program
 
 ## Description des fonctions utilisées
 
-### - Read_u16()
+### - dht.readTempHumid()
 
-La fonction read_u16() permet de lire la valeur numérique d'un capteur ou d'un périphérique connecté au Raspberry Pi Pico en utilisant un format de données de 16 bits.
+La fonction dht.readTempHumid() est une méthode qui permet de lire la température et l'humidité à partir d'un capteur DHT11 connecté à un Raspberry Pi Pico. Cette fonction utilise un protocole de communication propriétaire pour communiquer avec le capteur et renvoie les valeurs de température et d'humidité en tant que variables numériques.
 
+### - servo.turn()
 
+La fonction servo.turn() est une méthode qui permet de contrôler un servo-moteur connecté à un Raspberry Pi Pico. Cette fonction envoie un signal de contrôle au servo-moteur pour le faire tourner à un angle spécifié en degrés, généralement entre 0 et 180 degrés. Le signal de contrôle est généré en utilisant une impulsion de largeur d'onde modulée (PWM) pour commander la vitesse et la position du servo-moteur.
+
+### - miniPir.value()
+
+La fonction miniPir.value() est une méthode qui permet de lire la valeur du capteur PIR (détecteur de mouvement) connecté à un Raspberry Pi Pico. Cette fonction retourne la valeur détectée par le capteur, qui est généralement un signal numérique indiquant la présence ou l'absence de mouvement dans la zone de détection.
 
