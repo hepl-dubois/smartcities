@@ -33,10 +33,7 @@ Vous pouvez retrouver toutes les vidéos/photos dans le fichier "Lesson" qui cor
 
 Une explication détaillée se trouve directement dans le code de chaque programme.
 
-#### Exemple [fade.py](Lesson_7/fade.py) de la [Lesson_7](Lesson_7)
-![IMG_3259](https://user-images.githubusercontent.com/125505805/224554588-02c6f2c4-70d6-414f-87db-64dfa2886b55.gif)
-
-![image](https://user-images.githubusercontent.com/125505805/224557625-9183961d-847f-4b10-a521-87361036837a.png)
+#### Exemple [temp_mini_fan.py](Lesson_11/temp_mini_fan.py) de la [Lesson_11](Lesson_11)
 
 
 ## Description des fonctions utilisées
