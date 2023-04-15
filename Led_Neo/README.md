@@ -30,9 +30,14 @@ Une explication détaillée se trouve directement dans le code de chaque program
 
 ## Description des fonctions utilisées
 
-### - Read_u16()
+### - led.pixels_fill()
 
-La fonction read_u16() permet de lire la valeur numérique d'un capteur ou d'un périphérique connecté au Raspberry Pi Pico en utilisant un format de données de 16 bits.
+La fonction read_u16() permet de remplir tous les pixels d'une bande LED NeoPixel avec une couleur spécifique. Cette fonction prend en entrée une couleur et remplit tous les pixels de la bande LED avec cette couleur.
+
+### - led.pixels_show()
+
+La fonction led.pixels_show() est une méthode de la bibliothèque "neopixel" qui permet d'actualiser l'affichage des LEDs connectées à une broche de la carte. Cette méthode doit être appelée après avoir modifié les couleurs des pixels à afficher avec la méthode led.pixels.fill().
+
 
 
 
