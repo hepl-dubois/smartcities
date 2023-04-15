@@ -12,9 +12,9 @@ Elle utilise généralement une interface de communication série pour envoyer d
 
 ### [Lesson_12](Lesson_12) : Utilisation d'un néopixel
 
-  ==> [Sensor_1.py](Lesson_6/Sensor_1.py) est un programme qui lit et affiche la valeur du potentiomètre
+  ==> [rgb_led.py](Lesson_12/rgb_led.py) est un programme qui
   
-  ==> [Sensor_2.py](Lesson_6/Sensor_2.py) est un programme qui allume une led en fonction de la valeur du potentiomètre (ici supérieur a 30000)
+  ==> [smart_light.py](Lesson_12/smart_light.py) est un programme qui allume une led en fonction de la valeur du 
   
   
 ## Fonctionnement
