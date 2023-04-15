@@ -35,6 +35,7 @@ Une explication détaillée se trouve directement dans le code de chaque program
 
 #### Exemple [temp_mini_fan.py](Lesson_11/temp_mini_fan.py) de la [Lesson_11](Lesson_11)
 
+![IMG_3564](https://user-images.githubusercontent.com/125505805/232223433-85059a41-0379-44ff-8dc9-b900a35feb98.gif)
 
 ## Description des fonctions utilisées
 
