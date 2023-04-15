@@ -12,9 +12,9 @@ Elle utilise généralement une interface de communication série pour envoyer d
 
 ### [Lesson_12](Lesson_12) : Utilisation d'un néopixel
 
-  ==> [rgb_led.py](Lesson_12/rgb_led.py) est un programme qui
+  ==> [rgb_led.py](Lesson_12/rgb_led.py) est un programme qui joue plusieurs couleur sur une led néopixel
   
-  ==> [smart_light.py](Lesson_12/smart_light.py) est un programme qui allume une led en fonction de la valeur du 
+  ==> [smart_light.py](Lesson_12/smart_light.py) est un programme qui joue plusieur couleur en fonction d'un capteur "Pir" et d'un microphone de détection
   
   
 ## Fonctionnement
@@ -23,10 +23,9 @@ Vous pouvez retrouver toutes les vidéos/photos dans le fichier "Lesson" qui cor
 
 Une explication détaillée se trouve directement dans le code de chaque programme.
 
-#### Exemple [fade.py](Lesson_7/fade.py) de la [Lesson_7](Lesson_7)
-![IMG_3259](https://user-images.githubusercontent.com/125505805/224554588-02c6f2c4-70d6-414f-87db-64dfa2886b55.gif)
+#### Exemple [rgb_led.py](Lesson_12/rgb_led.py) de la [Lesson_12](Lesson_12)
 
-![image](https://user-images.githubusercontent.com/125505805/224557625-9183961d-847f-4b10-a521-87361036837a.png)
+![IMG_3565](https://user-images.githubusercontent.com/125505805/232225941-bbe73d02-386c-4b4f-bad4-bfaaf6462822.gif)
 
 
 ## Description des fonctions utilisées
@@ -34,14 +33,6 @@ Une explication détaillée se trouve directement dans le code de chaque program
 ### - Read_u16()
 
 La fonction read_u16() permet de lire la valeur numérique d'un capteur ou d'un périphérique connecté au Raspberry Pi Pico en utilisant un format de données de 16 bits.
-
-### - Freq()
-
-La fonction freq() permet de régler la fréquence d'un signal numérique envoyé à un périphérique connecté au Raspberry Pi Pico.
-
-### - Duty_16()
-
-La fonction duty_16() permet de régler le rapport cyclique d'un signal numérique envoyé à un périphérique connecté au Raspberry Pi Pico en utilisant un format de données de 16 bits.
 
 
 
