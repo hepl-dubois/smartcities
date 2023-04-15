@@ -4,7 +4,7 @@
 
 Un capteur, ou "sensor" en anglais, est un dispositif qui permet de mesurer une grandeur physique telle que la température, l'humidité, la pression, la lumière, le son, etc. Les capteurs sont utilisés dans de nombreux domaines pour collecter des données sur l'environnement ou les systèmes, et sont souvent connectés à un microcontrôleur comme le Raspberry Pi Pico pour traiter les données collectées.
 
-## Répertoire de programme lié au AD-PWM
+## Répertoire de programme lié au Sensors
 
 ### [Lesson_10](Lesson_10) : Utilisation d'un détecteur d'humidité/température
 
