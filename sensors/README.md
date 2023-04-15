@@ -6,11 +6,11 @@ Un capteur, ou "sensor" en anglais, est un dispositif qui permet de mesurer une 
 
 ## Répertoire de programme lié au AD-PWM
 
-### [Lesson_10](Lesson_10) : Utilisation d'un potentiomètre
+### [Lesson_10](Lesson_10) : Utilisation d'un détecteur d'humidité/température
 
-  ==> [temp_humid.py](Lesson_10/temp_humid.py) est un programme qui
+  ==> [temp_humid.py](Lesson_10/temp_humid.py) est un programme qui affiche la température et l'humidité sur LCD
   
-  ==> [temp_humid_alarm.py](Lesson_10/temp_humid_alarm.py) est un programme qui 
+  ==> [temp_humid_alarm.py](Lesson_10/temp_humid_alarm.py) est un programme qui affiche la température et l'humidité sur LCD en plus de sonner sous un certain seuil
   
   
 ### [Lesson_11](Lesson_11) : Utilisation de la fonction PWM sur une led
