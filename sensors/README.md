@@ -13,11 +13,11 @@ Un capteur, ou "sensor" en anglais, est un dispositif qui permet de mesurer une 
   ==> [temp_humid_alarm.py](Lesson_10/temp_humid_alarm.py) est un programme qui affiche la température et l'humidité sur LCD en plus de sonner sous un certain seuil
   
   
-### [Lesson_11](Lesson_11) : Utilisation de la fonction PWM sur une led
+### [Lesson_11](Lesson_11) : Utilisation d'un mini-ventilateur
 
-  ==> [minifan.py](Lesson_11/minifan.py) est un programme qui 
+  ==> [minifan.py](Lesson_11/minifan.py) est un programme qui active un mini-ventilateur à l'aide d'un bouton poussoir
   
-  ==> [temp_mini_fan.py](Lesson_11/temp_mini_fan.py) est un programme qui 
+  ==> [temp_mini_fan.py](Lesson_11/temp_mini_fan.py) est un programme qui active un mini-ventilateur par le biais d'un capteur de température/humidité
 
 ### [Lesson_13](Lesson_13) : Utilisation de la fonction PWM & d'un buzzer passif pour générer un son
 
@@ -44,14 +44,6 @@ Une explication détaillée se trouve directement dans le code de chaque program
 ### - Read_u16()
 
 La fonction read_u16() permet de lire la valeur numérique d'un capteur ou d'un périphérique connecté au Raspberry Pi Pico en utilisant un format de données de 16 bits.
-
-### - Freq()
-
-La fonction freq() permet de régler la fréquence d'un signal numérique envoyé à un périphérique connecté au Raspberry Pi Pico.
-
-### - Duty_16()
-
-
 
 
 
