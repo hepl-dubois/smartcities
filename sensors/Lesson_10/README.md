@@ -4,11 +4,11 @@
 
 ### Une explication détaillée se trouve en commentaire dans chaque code.
 
-## [temp_humid.py](temp_humid.py) est un programme qui
+## [temp_humid.py](temp_humid.py) est un programme qui affiche la température et l'humidité sur LCD
 
 ![image](https://user-images.githubusercontent.com/125505805/232156661-7cbd6962-352c-4456-bf38-607ebabad5e8.png)
 
 
-## [temp_humid_alarm.py](temp_humid_alarm.py) est un programme qui 
+## [temp_humid_alarm.py](temp_humid_alarm.py) est un programme qui affiche la température et l'humidité sur LCD en plus de sonner sous un certain seuil
 
 ![image](https://user-images.githubusercontent.com/125505805/232156703-e1506df7-7023-4ac3-90a5-b43ddbfdc92d.png)
