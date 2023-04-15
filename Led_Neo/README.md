@@ -32,7 +32,7 @@ Une explication détaillée se trouve directement dans le code de chaque program
 
 ### - led.pixels_fill()
 
-La fonction read_u16() permet de remplir tous les pixels d'une bande LED NeoPixel avec une couleur spécifique. Cette fonction prend en entrée une couleur et remplit tous les pixels de la bande LED avec cette couleur.
+La fonction led.pixels_fill() permet de remplir tous les pixels d'une bande LED NeoPixel avec une couleur spécifique. Cette fonction prend en entrée une couleur et remplit tous les pixels de la bande LED avec cette couleur.
 
 ### - led.pixels_show()
 
