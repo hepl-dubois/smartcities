@@ -19,11 +19,11 @@ Un capteur, ou "sensor" en anglais, est un dispositif qui permet de mesurer une 
   
   ==> [temp_mini_fan.py](Lesson_11/temp_mini_fan.py) est un programme qui active un mini-ventilateur par le biais d'un capteur de température/humidité
 
-### [Lesson_13](Lesson_13) : Utilisation de la fonction PWM & d'un buzzer passif pour générer un son
+### [Lesson_13](Lesson_13) : Utilisation d'un capteur pir & d'un servomoteur
 
-  ==> [servo.py](Lesson_13/servo.py) est un programme qui 
+  ==> [servo.py](Lesson_13/servo.py) est un programme qui active un servo-moteur
   
-  ==> [pir_servo.py](Lesson_13/pir_servo.py) est un programme qui 
+  ==> [pir_servo.py](Lesson_13/pir_servo.py) est un programme qui qui active un servo-moteur àl'aide d'un capteur "pir" qui dectecte un mouvement
   
   
   
