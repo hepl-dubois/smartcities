@@ -20,7 +20,7 @@ Le programme se met à jour toutes les 3 secondes. Cela permet d'afficher en con
 
 Une explication détaillée se trouve directement dans le code de chaque programme.
 
-#### Démonstration [fade.py](Lesson_7/fade.py) de la [Lesson_7](Lesson_7)
+#### Démonstration [Meteo_Heure_Date.py](Meteo_Heure_Date.py)
 
 ![IMG_3716](https://user-images.githubusercontent.com/125505805/236703665-6928a439-93ed-411d-9475-ea9b245c757f.gif)
 
