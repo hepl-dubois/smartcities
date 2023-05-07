@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Le Raspberry Pi Pico W, qui dispose d'une connectivité Wi-Fi intégrée. Une fois connecté, le Pico W peut communiquer avec d'autres appareils sur le réseau, accéder à des services en ligne et échanger des données. L'utilisation du réseau permet d'étendre les capacités du Pico W en le reliant à des ressources externes comme ici avec NTP et OpenWheatherMap.
+
 ## Répertoire de programme lié au Network
 
   ==> [Meteo_Heure_Date.py](Meteo_Heure_Date.py) est un programme qui se connecte au wifi pour afficher l'heure et la date ainsi que la méteo du lieu choissi.
