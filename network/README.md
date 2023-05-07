@@ -4,15 +4,12 @@
 
 ## Répertoire de programme lié au Network
 
-### [Lesson_6](Lesson_6) : Utilisation d'un potentiomètre
-
-  ==> [Sensor_1.py](Lesson_6/Sensor_1.py) est un programme qui lit et affiche la valeur du potentiomètre
+  ==> [Meteo_Heure_Date.py](Meteo_Heure_Date.py) est un programme qui se connecte au wifi pour afficher l'heure et la date ainsi que la méteo du lieu choissi.
   
   
   
 ## Fonctionnement
 
-Vous pouvez retrouver toutes les vidéos/photos dans le fichier "Lesson" qui correspond au programme.
 
 Une explication détaillée se trouve directement dans le code de chaque programme.
 
