@@ -29,8 +29,22 @@ Une explication détaillée se trouve directement dans le code de chaque program
 
 ## Description des fonctions utilisées
 
-### - Read_u16()
+### - Network()
 
-La fonction read_u16() permet de 
+La fonction Network() permet de d'initialiser la connexion Wi-Fi et de gérer les paramètres de connexion.
+
+### - Ntptime;settime()
+
+La fonction Ntptime;settime() permet de synchroniser l'horloge interne du microcontrôleur avec un serveur de temps NTP, fournissant ainsi l'heure actuelle.
+
+### - urequests.get()
+
+La fonction urequests.get() effectue une requête HTTP GET pour récupérer les données demander
+
+
+
+
+
+
 
 
